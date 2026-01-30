@@ -74,6 +74,12 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
 ### 🔹 Heatmap por Região e Categoria
 ![Heatmap](images/heatmap_regiao_categoria.png)
 
+### 🔹 Dashboard Interativo (Apache Superset)
+
+<p align="center">
+  <img src="images/dashboard_superset.png" width="800">
+</p>
+
 ---
 
 ## 🧠 Principais Aprendizados
@@ -96,3 +102,5 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
 ---
 
 📌 **Projeto desenvolvido para fins educacionais e portfólio profissional.**
+
+

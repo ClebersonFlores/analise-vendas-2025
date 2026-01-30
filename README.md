@@ -76,8 +76,7 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
 
 ### 🔹 Dashboard Interativo (Apache Superset)
 
-![Dashboard Superset](images/dashboard_superset.png)
-
+![Dashboard Superset](images/dashboard-vendas-2025-superset.jpg).
 ---
 
 ## 🧠 Principais Aprendizados

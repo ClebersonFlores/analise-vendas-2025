@@ -66,7 +66,7 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
 
 <p align="center">
   <img src="images/exploracao_inicial.png" width="800">
-</p>.png)
+</p>
 
 ### 🔹 Ranking de Produtos
 

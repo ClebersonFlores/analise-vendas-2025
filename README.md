@@ -76,7 +76,12 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
 
 ### 🔹 Dashboard Interativo (Apache Superset)
 
-![Dashboard Superset](images/dashboard-vendas-2025-superset.jpg).
+<p align="center">
+  <img src="images/dashboard-vendas-2025-superset.png" width="800">
+</p>
+
+📌 Dashboard desenvolvido no Apache Superset, conectado a banco PostgreSQL, com filtros interativos e foco em análise de vendas.
+
 ---
 
 ## 🧠 Principais Aprendizados

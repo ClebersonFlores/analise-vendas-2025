@@ -18,12 +18,15 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
 
 ## 🧰 Tecnologias Utilizadas
 
-- **Python 3**
-- **Pandas**
-- **Matplotlib / Seaborn**
-- **SQLite**
-- **Jupyter Notebook**
-- **Git & GitHub**
+- Python 3
+- Pandas
+- Matplotlib / Seaborn
+- SQL
+- PostgreSQL
+- Apache Superset
+- Jupyter Notebook
+- Git & GitHub
+- Linux
 
 ---
 
@@ -119,14 +122,14 @@ importado para o PostgreSQL e modelado no Apache Superset para criação das vis
 - Uso prático de SQL para análise
 - Criação de gráficos orientados a negócio
 - Estruturação de projetos de Data Analytics
-- Versionamento com GitHub
+- Visualização orientada à tomada de decisão
 
 ---
 
 ## 🚀 Próximos Passos
 
 - Implementar novas métricas
-- Criar dashboards interativos
+- Criar dashboards mais avançados
 - Automatizar análises
 - Expandir o projeto com novos dados
 

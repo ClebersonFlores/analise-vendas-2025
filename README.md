@@ -63,16 +63,29 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
 ## 📈 Visualizações
 
 ### 🔹 Exploração Inicial dos Dados
-![Exploração Inicial](images/exploracao_inicial.png)
+
+<p align="center">
+  <img src="images/exploracao_inicial.png" width="800">
+</p>.png)
 
 ### 🔹 Ranking de Produtos
-![Ranking de Produtos](images/ranking_produtos.png)
+
+<p align="center">
+  <img src="images/ranking_produtos.png" width="800">
+</p>
 
 ### 🔹 Análise Regional
-![Análise Regional](images/analise_regional.png)
+
+<p align="center">
+  <img src="images/analise_regional.png" width="800">
+</p>
 
 ### 🔹 Heatmap por Região e Categoria
-![Heatmap](images/heatmap_regiao_categoria.png)
+
+<p align="center">
+  <img src="images/heatmap_regiao_categoria.png" width="800">
+</p>
+
 
 ### 🔹 Dashboard Interativo (Apache Superset)
 

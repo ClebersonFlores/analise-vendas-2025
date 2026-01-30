@@ -86,14 +86,30 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
   <img src="images/heatmap_regiao_categoria.png" width="800">
 </p>
 
+## 📊 Dashboard Interativo — Apache Superset
 
-### 🔹 Dashboard Interativo (Apache Superset)
+Este dashboard foi desenvolvido utilizando **Apache Superset**, conectado a um banco de dados **PostgreSQL**, com o objetivo de visualizar e analisar dados de vendas de forma interativa.
+
+### 🔹 Recursos do Dashboard
+- Filtros por período, região, categoria e vendedor
+- Visualização de métricas de vendas
+- Análise comparativa entre regiões
+- Gráficos interativos e dinâmicos
+
+### 🔹 Tecnologias Utilizadas
+- Apache Superset
+- PostgreSQL
+- SQL
+- Linux
+
+### 🔹 Print do Dashboard
 
 <p align="center">
   <img src="images/dashboard-vendas-2025-superset.jpg" width="800">
 </p>
 
-📌 Dashboard desenvolvido no Apache Superset, conectado a banco PostgreSQL, com filtros interativos e foco em análise de vendas.
+📌 O dashboard foi construído a partir do arquivo `vendas_tratadas.csv`,
+importado para o PostgreSQL e modelado no Apache Superset para criação das visualizações.
 
 ---
 

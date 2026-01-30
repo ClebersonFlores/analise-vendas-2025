@@ -76,9 +76,7 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
 
 ### 🔹 Dashboard Interativo (Apache Superset)
 
-<p align="center">
-  <img src="images/dashboard_superset.png" width="800">
-</p>
+![Dashboard Superset](images/dashboard_superset.png)
 
 ---
 

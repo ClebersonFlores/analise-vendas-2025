@@ -62,14 +62,17 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
 
 ## 📈 Visualizações
 
-### 🔹 Faturamento por período
-![Faturamento](images/faturamento_mensal.png)
+### 🔹 Exploração Inicial dos Dados
+![Exploração Inicial](images/exploracao_inicial.png)
 
-### 🔹 Curva ABC de Produtos
-![Curva ABC](images/curva_abc.png)
+### 🔹 Ranking de Produtos
+![Ranking de Produtos](images/ranking_produtos.png)
 
-### 🔹 Dashboard de Vendas
-![Dashboard](images/dashboard_vendas.png)
+### 🔹 Análise Regional
+![Análise Regional](images/analise_regional.png)
+
+### 🔹 Heatmap por Região e Categoria
+![Heatmap](images/heatmap_regiao_categoria.png)
 
 ---
 

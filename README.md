@@ -37,6 +37,7 @@ analise-vendas-2025/
 ├── images/             # Gráficos e visualizações
 ├── requirements.txt    # Dependências do projeto
 └── README.md           # Documentação
+
 ---
 
 ## 📊 Análises Realizadas

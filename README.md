@@ -29,14 +29,23 @@ O projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados**
 
 ## 📁 Estrutura do Projeto
 
-analise-vendas-2025/
-│
-├── data/               # Dados tratados e prontos para análise
-├── notebooks/          # Análises em Python
-├── sql/                # Scripts SQL e banco de dados
-├── images/             # Gráficos e visualizações
-├── requirements.txt    # Dependências do projeto
-└── README.md           # Documentação
+- **data/**  
+  Dados tratados e prontos para análise  
+
+- **notebooks/**  
+  Análises realizadas em Python  
+
+- **sql/**  
+  Scripts SQL e banco de dados  
+
+- **images/**  
+  Gráficos e visualizações geradas  
+
+- **requirements.txt**  
+  Dependências do projeto  
+
+- **README.md**  
+  Documentação do projeto
 
 ---
 
